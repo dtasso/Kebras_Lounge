@@ -602,7 +602,7 @@ footer .social a:hover {
 
 /* ======= POPUP =======*/
 /* The Modal (background) */
-.modal {
+.modal-content {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
